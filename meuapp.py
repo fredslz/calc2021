@@ -1,4 +1,4 @@
-//teste
+
 def soma(num1, num2):
     
     if is_number(num1) and is_number(num2):
